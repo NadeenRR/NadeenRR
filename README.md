@@ -11,7 +11,6 @@
 
 ```dart
   const Map<String, dynamic> nadeen = {
-    'pronouns': ['she', 'her'],
     'Languages': ['Dart', 'Java', 'C', 'C++', 'Python'],
     'tools': ['VS', 'Android Studio', 'Github', 'Figma', 'Photoshop', 'Trello', 'Notion'],
   };
