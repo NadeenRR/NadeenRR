@@ -5,8 +5,9 @@
  - Flutter Developer with 2+ years of hands-on experience designing, developing, and implementing applications
  - Member at [Women Techmakers](https://www.facebook.com/wtmgaza)
  - Graduated from the Mobile Development with Flutter Program at [GSG](https://gazaskygeeks.com/)
- - See my [resume](https://docs.google.com/document/d/1UpwayD1uSRbZ3Y2y_ybROvKh2ERCS_fq09Lxihz7Gik/edit?usp=sharing) for more
  - I'm interested in ML and AI✨<br>
+ <!--- - See my [resume](https://docs.google.com/document/d/1UpwayD1uSRbZ3Y2y_ybROvKh2ERCS_fq09Lxihz7Gik/edit?usp=sharing) for more -->
+ 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```dart
