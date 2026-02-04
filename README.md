@@ -31,7 +31,7 @@
 </div>
 </samp> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NadeenRR&bg_color=141d2a&color=a6accd&line=f8d8f0&point=b0429b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NadeenRR&bg_color=0d1117&color=a6accd&line=e4c7e6&point=b0429b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- </div>
 <div align="center">
