@@ -1,39 +1,40 @@
-<h1 align= 'center'> Hi, I'm Nadeen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-<!-- <h3 align="left">Software Engineer | Flutter Developer </h3> -->
+<div align="center">
 
- - Software Engineering at [Al-Azhar University – Gaza](https://www.alazhar.edu.ps/arabic/index.asp)
- - Flutter Developer with 2+ years of hands-on experience designing, developing, and implementing applications
- - Member at [Women Techmakers](https://www.facebook.com/wtmgaza)
- - Graduated from the Mobile Development with Flutter Program at [GSG](https://gazaskygeeks.com/)
- - I'm interested in ML and AI✨<br>
- <!--- - See my [resume](https://docs.google.com/document/d/1UpwayD1uSRbZ3Y2y_ybROvKh2ERCS_fq09Lxihz7Gik/edit?usp=sharing) for more -->
- 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### Ladies and Gentlemen, I'm Nadeen Radwan
+<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> -->
+##### Mobile App Developer | Flutter & Android Native | Kotlin Multiplatform (KMP)
 
-```dart
-  const Map<String, dynamic> nadeen = {
-    'Languages': ['Dart', 'Java', 'C', 'C++', 'Python'],
-    'tools': ['VS', 'Android Studio', 'Github', 'Figma', 'Photoshop', 'Trello', 'Notion'],
-  };
-```
+<samp align="center">
+<div align="center" dir="auto">
+  <!-- Building clean, scalable mobile apps with a strong focus on UX and code quality. -->
+ ⦿ Clean code ⦿ Scalable apps ⦿ Thoughtful UX
+ <!-- ● Clean code ● Scalable apps ● Thoughtful UX -->
+</div>
+</samp>
 <br>
 
-### GitHub Profile Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadeenrr&show_icons=true&locale=en&layout=compact" alt="nadeenrr" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeenrr&" alt="nadeenrr" /></p>
-<br>
 
-### 🤝🏻 &nbsp;Connect with Me
+<!-- <samp align="center">
+<div align="center" dir="auto">
+  Implementing: <a href="https://attention-is-all-you-need.onrender.com/" rel="nofollow"> Attention is all you need </a>
+  <br>
+  Built:
+  <a href="https://ayanexus.dev/" rel="nofollow">portfolio</a> |
+  <a href="https://vloomeo.ashraf.zone/" rel="nofollow">vloomeo</a> |
+  <a href="https://www.swanexus.dev/" rel="nofollow">swan</a>
+  <br>
+  Research analysis: <a href="https://movico.vercel.app/" rel="nofollow">Movico</a>
+  <br>
+  Developing:
+  <a href="https://api.whatsapp.com/send/?phone=971586633824&amp;text&amp;type=phone_number&amp;app_absent=0" rel="nofollow"> maya</a>
+  <br>
+</div>
+</samp> -->
 
-<p align="left">
-  <a href="mailto:nadeenradwan0@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="nadeen" height="30"/></a>
-  <a href="https://www.linkedin.com/in/nadeenradwan/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="nadeen" height="30"/></a>
- <a href="https://twitter.com/nadeenRadwan3" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="nadeen" height="30"/></a>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NadeenRR&bg_color=141d2a&color=a6accd&line=f8d8f0&point=b0429b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- </div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,git,github" />
+</div> -->
 
