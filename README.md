@@ -2,7 +2,7 @@
 
 ### Ladies and Gentlemen, I'm Nadeen Radwan
 <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> -->
-##### Mobile App Developer | Flutter & Android Native | Kotlin Multiplatform (KMP)
+#### Mobile App Developer | Flutter & Android Native | Kotlin Multiplatform (KMP)
 
 <samp align="center">
 <div align="center" dir="auto">
